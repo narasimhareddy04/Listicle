@@ -24,15 +24,16 @@ The following **optional** features are implemented:
 - [x] The web app displays items in a unique format, such as cards rather than lists
 
 ## Video Walkthrough
-
-**Note: please be sure to 
+ 
 
 Here's a walkthrough of implemented required features:
+![ListiclePart1](https://github.com/narasimhareddy04/Listicle/assets/63772959/422767ba-429d-4442-ac16-9ad06c9fbd92)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
+GIF created with **ScreenToGif**
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
