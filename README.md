@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![ListiclePart2](https://github.com/narasimhareddy04/Listicle/assets/63772959/659acd11-4a83-4f26-93d2-03a029f2be07)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
