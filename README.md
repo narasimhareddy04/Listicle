@@ -1,10 +1,10 @@
-# WEB103 Project 1 - *Listicle*
+# WEB103 Project 2 - *Listicle*
 
 Submitted by: **Mohana Narasimha Reddy Attunuru**
 
-About this web app: **Listicle is a guide to start your business. No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche? We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers? We have a short guide for each one of those. Our guides are sorted into different categories (including business models, product development, sales, market research, and funding) so you can browse or filter to personalize your experience. **
+About this web app: **No matter what stage you are at opening up a business, we have a tutorial for you! Looking to brainstorm business ideas and find your niche? We can guide you in the right direction! Finding the right partner? Growing your team? Talking to suppliers? We have a short guide for each one of those. Our guides are sorted into different categories (including business models, product development, sales, market research, and funding) so you can browse or filter to personalize your experience.**
 
-Time spent: **3** hours
+Time spent: **2** hours
 
 ## Required Features
 
@@ -12,28 +12,18 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [x] **The web app displays a title**
-- [x] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
-- [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [x] **The web app serves an appropriate 404 page when no matching route is defined**
-- [x] **The web app is appropriately styled using Picocss**
-
-The following **optional** features are implemented:
-
-- [x] The web app displays items in a unique format, such as cards rather than lists
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [x] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [x] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 ## Video Walkthrough
- 
 
 Here's a walkthrough of implemented required features:
-![ListiclePart1](https://github.com/narasimhareddy04/Listicle/assets/63772959/422767ba-429d-4442-ac16-9ad06c9fbd92)
-
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with **ScreenToGif**
+GIF created with [ScreenToGif](https://www.screentogif.com/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
