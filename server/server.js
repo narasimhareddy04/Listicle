@@ -1,4 +1,5 @@
 import express from "express";
+import "./config/dotenv.js";
 import guidesRouter from "./routes/guides.js";
 const app = express();
 app.use("/public", express.static("./public"));

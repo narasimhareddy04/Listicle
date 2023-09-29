@@ -5,6 +5,7 @@ const renderGuide = async () => {
   const guideContent = document.getElementById("guide-content");
   let guide;
   guide = data.find((guide) => guide.id === requestedID);
+  console.log(guide);
   if (guide) {
     document.getElementById("image").src = guide.image;
     document.getElementById("title").textContent = guide.title;
